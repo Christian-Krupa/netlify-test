@@ -1,0 +1,4 @@
+baseURL = "https://relaxed-bhaskara-b9115b.netlify.com/"
+languageCode = "en-us"
+title = "Test"
+theme = "ananke"
